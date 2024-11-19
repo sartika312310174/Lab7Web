@@ -22,6 +22,13 @@ Cara mengaksesnya dengan http://localhost/lab7_php_dasar/predefine.php?nama=sart
 ![Screenshot (39)](https://github.com/user-attachments/assets/f6c18432-ae58-4ec2-99a7-ae31d7f5a447)
 5. Membuat Form Input dengan mengakses lalu menginput nama. http://localhost/lab7_php_Dasar/form_input.php?nama=sartika
 ![Screenshot (41)](https://github.com/user-attachments/assets/7c41c6ed-4b03-4374-b0b1-0b38a540941c)
-
+6. Operator gaji
+![image](https://github.com/user-attachments/assets/e838ea46-1629-42b3-8659-0da0e6735440)
+7. Kondisi-if
+![image](https://github.com/user-attachments/assets/876595da-8dc9-40c1-8472-a59416ec45f6)
+8. Kondisi Switch
+![image](https://github.com/user-attachments/assets/5ed69483-248c-4fc0-8ebe-fc7efac7131e)
+9. Perulangan for
+   
 
 
