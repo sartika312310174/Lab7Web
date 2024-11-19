@@ -34,6 +34,14 @@ Cara mengaksesnya dengan http://localhost/lab7_php_dasar/predefine.php?nama=sart
 ![image](https://github.com/user-attachments/assets/02fe8b20-adad-4800-a73f-7e982dae5437)
 12. Perulangan Do-while
 ![image](https://github.com/user-attachments/assets/e0abe275-57e5-44b2-a001-aa1a34c9b5a8)
+13. Membuat form input yang menampilkan nama, tanggal lahir dan pekerjaan
+Tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir dan pilihan pekerjaan dengan gaji
+yang berbeda-beda sesuai pilihan pekerjaan.
+![image](https://github.com/user-attachments/assets/956e93e9-2cc5-4e9e-9879-9534a3562f46)
+![image](https://github.com/user-attachments/assets/433d33c0-d4f3-43ae-b7b3-85114fda94ad)
+![image](https://github.com/user-attachments/assets/6ccbda63-0bb9-4e81-ab23-c8dd3d6adf70)
+
+
 
 
    
