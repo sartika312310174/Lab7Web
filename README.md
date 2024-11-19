@@ -32,7 +32,7 @@ Cara mengaksesnya dengan http://localhost/lab7_php_dasar/predefine.php?nama=sart
 ![image](https://github.com/user-attachments/assets/9b740bf1-189a-432a-98f2-d66b5ab1edc1)
 11. Perulangan while
 ![image](https://github.com/user-attachments/assets/02fe8b20-adad-4800-a73f-7e982dae5437)
-12. Perulangan Downhile
+12. Perulangan Do-while
 ![image](https://github.com/user-attachments/assets/e0abe275-57e5-44b2-a001-aa1a34c9b5a8)
 
 
