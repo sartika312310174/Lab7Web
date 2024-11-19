@@ -15,4 +15,10 @@
 ![Cuplikan layar 2024-11-19 094927](https://github.com/user-attachments/assets/77884e1e-223d-44ce-9c8b-5790b86d1220)
 2. Membuat code php dasar
 ![image](https://github.com/user-attachments/assets/f600e6a3-c29c-4dd6-83b5-70e3a1c72440)
+3. Menggunakan Variable
+![image](https://github.com/user-attachments/assets/40431779-0833-4cc4-8bd0-5e558f9b12a9)
+4. Predefine Variable
+Cara mengaksesnya dengan http://localhost/lab7_php_dasar/predefine.php?nama=sartika
+![Screenshot (39)](https://github.com/user-attachments/assets/f6c18432-ae58-4ec2-99a7-ae31d7f5a447)
+
 
