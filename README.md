@@ -28,7 +28,7 @@ Cara mengaksesnya dengan http://localhost/lab7_php_dasar/predefine.php?nama=sart
 ![image](https://github.com/user-attachments/assets/876595da-8dc9-40c1-8472-a59416ec45f6)
 8. Kondisi Switch
 ![image](https://github.com/user-attachments/assets/5ed69483-248c-4fc0-8ebe-fc7efac7131e)
-9. Perulangan for
+10. Perulangan for
    
 
 
