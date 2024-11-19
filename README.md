@@ -20,5 +20,8 @@
 4. Predefine Variable
 Cara mengaksesnya dengan http://localhost/lab7_php_dasar/predefine.php?nama=sartika
 ![Screenshot (39)](https://github.com/user-attachments/assets/f6c18432-ae58-4ec2-99a7-ae31d7f5a447)
+5. Membuat Form Input dengan mengakses http://localhost/lab7_php_Dasar/form_input.php?nama=sartika
+![Screenshot (41)](https://github.com/user-attachments/assets/7c41c6ed-4b03-4374-b0b1-0b38a540941c)
+
 
 
